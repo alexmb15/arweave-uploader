@@ -57,3 +57,5 @@ await arweaveUploader.uploadAssets(filesToUpload, '/Users/andrew/web3/', 'index.
 - `rootPath` **(required)**: Path to the directory which is being uploaded
 - `indexFile` **(optional)**: Index file (relative path), e.g. _index.html_
 - `verbose` **(optional)**: Boolean field to enable / disable progress messages, defaults to _true_
+
+Do you speak russian language? Contact me please! alexmb152@gmail.com
